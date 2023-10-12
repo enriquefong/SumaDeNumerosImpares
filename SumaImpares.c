@@ -13,9 +13,9 @@ int main() {
         impar = impar + 2;
         n = n - 1;
     }
-
+    
     // Fin del bucle while
     printf("La suma de los primeros numeros impares capturados es: %d\n", suma);
-
+    
     return 0;
 }
